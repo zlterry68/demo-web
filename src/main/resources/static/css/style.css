@@ -1,0 +1,9 @@
+.map-help{
+
+}
+.map-help iframe{
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+    padding-bottom: 26px;
+}
